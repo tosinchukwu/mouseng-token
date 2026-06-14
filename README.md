@@ -1,6 +1,6 @@
 # Mouseng Token
 
-Mouseng Token is an ERC-20 token created for practice purposes during the TechCrush Web3/Blockchain Development Cohort 7.
+Mouseng Token is an ERC-20 standard token developed as a practice project during the TechCrush Web3/Blockchain Development Cohort 7.
 
 ---
 
