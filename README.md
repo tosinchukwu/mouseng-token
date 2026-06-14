@@ -1,13 +1,20 @@
-# Mouseng-Token
-Mouseng-token is an ERC-20 token created for practice purposes during TechCrush Web3 Development/Blockchain Cohort 7 .
+# Mouseng Token
 
-# Features
-Mintable
-* Pausable
-* Burnable
-* ERC-20 Standard
+Mouseng Token is an ERC-20 token created for practice purposes during the TechCrush Web3/Blockchain Development Cohort 7.
 
-# Tech Stack
-* Solidity
-* Foundry
-* OpenZeppelin
+---
+
+## Features
+
+- Mintable  
+- Pausable  
+- Burnable  
+- ERC-20 Standard  
+
+---
+
+## Tech Stack
+
+- Solidity  
+- Foundry  
+- OpenZeppelin  
